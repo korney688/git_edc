@@ -16,7 +16,11 @@
 
 7. git log # show commit history
 
+   7.1. git log --oneline # show short commits story
+
 8. git remote add origin HERE URL SSH OR HTTP OF REMOTE
 
 9. git push -u origin master
+
+
 
