@@ -29,8 +29,15 @@
 
 ### File statuses
 
-```mermaid
-%% Untracked
-```
+__Untracked__ - not add to got monitoring
+
+__Tracked__ - add to git monitoring
+
+__staged__ - git add - prepare to commit
+
+__modified__ - changed, need to git add agait before commit
+
+
+
 
 
