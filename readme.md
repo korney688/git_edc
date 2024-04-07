@@ -22,5 +22,9 @@
 
 9. git push -u origin master
 
+### HEAD 
+ __HEAD__ is a file in .git with link to last commit
+ this link contains last commit hash summ sha 
+ Each commint has a unique hash summ 
 
 
