@@ -27,4 +27,10 @@
  this link contains last commit hash summ sha 
  Each commint has a unique hash summ 
 
+### File statuses
+
+```mermaid
+%% Untracked
+```
+
 
